@@ -1,0 +1,22 @@
+{
+  "identity": {
+    "language": {
+      "value": "Polish",
+      "updated": "2026-07-15"
+    },
+    "name": {
+      "value": "Michał",
+      "updated": "2026-07-15"
+    }
+  },
+  "preferences": {
+    "greeting_news": {
+      "value": "do not include world news headlines in greeting",
+      "updated": "2026-07-15"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {}
+}
